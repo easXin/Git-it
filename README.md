@@ -5,17 +5,17 @@
 #             LOCAL                                  #                      REMOTE                     #
 ######################################################################################################## 
 #    Working         Staging           Repository    #                                                 # 
-#   Directory         Area           (.git folder)   #                                                 # 
+#   Directory         Area           (.git folder)   #                                                 #
 ######################################################                                                 #   
 #              #                #                    #                                                 #  
-# P: untrack   # P:change to    # P: your branch     #                                                 #      
-#     file     # be committed   #  is ahead of       #                                                 # 
-#              #                #  'origin/master'   #                                                 #
-#              #                #    by 1 commit     #                                                 #
-#              #                #                    #                                                 #
-# S: git add   # S: git commite # S: git push origin #                                                 #
-#    demo.txt  #    -m "...."   #     master         #                                                 #
-#              #                #                    #                                                 #  
+# P: untrack   # P:change to    # P: your branch     #    -> Rebasing                                  #      
+#     file     # be committed   #  is ahead of       #    -> Stashing                                  # 
+#              #                #  'origin/master'   #    -> Tagging                                   #
+#              #                #    by 1 commit     #    -> History                                   #
+#              #                #                    #    -> Backing out                               #
+# S: git add   # S: git commite # S: git push origin #    -> Basic commands                            #
+#    demo.txt  #    -m "...."   #     master         #    -> Comparisons                               #
+#              #                #                    #    -> Branching and Merging                     #  
 #              #                #                    #                                                 #  
 #              #                #                    #                                                 # 
 ######################################################################################################## 
