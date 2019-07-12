@@ -8,4 +8,6 @@
 
 ## How to distribute
 
+## Team
+   \One man team/
 ...
