@@ -11,4 +11,8 @@
 ## Team
    \ >.< /
    adding another change after rebase
+
+### Copyright
+
+2019 Git. All rights reserve   
 ...
