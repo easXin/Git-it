@@ -23,6 +23,3 @@
 #                    git log --oneline --decorate --all --graph  <=> git hist                          #
 ######################################################################################################## 
 ```
-```
-Let's mess around with GIT to learn the new stuff 
-```
